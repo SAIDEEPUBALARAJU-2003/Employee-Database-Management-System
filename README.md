@@ -64,9 +64,6 @@ employee-management-sql/
 ├── ERD.png # Optional: ER diagram of the system
 ├── README.md # Project overview and usage instructions
 
-yaml
-Copy
-Edit
 
 ---
 
